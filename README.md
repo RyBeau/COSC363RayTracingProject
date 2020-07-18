@@ -7,6 +7,9 @@ This is the OpenGL Ray Tracing Project I completed for my COSC363 Computer Graph
 * Refractive Objects
 * Multiple Light Sources with combining shadows
 
+### Report
+
+[PDF Link](https://pdfhost.io/v/Oxl.HyPrj_Microsoft_Word_COSC363Assignment2Reportdocx.pdf)
 
 ### Below are some pictures of the finished project.
 
