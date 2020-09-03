@@ -14,11 +14,17 @@ This is the OpenGL Ray Tracing Project I completed for my COSC363 Computer Graph
 ### Below are some pictures of the finished project.
 
 #### Final Result
-![alt text](https://i.imgur.com/WA5aw73l.png "Ray Tracer Final")
+![alt text](https://i.imgur.com/WA5aw73m.png "Ray Tracer Final")
+
+[Full size](https://i.imgur.com/WA5aw73.png)
 
 #### Anti-Aliasing Comparison
 ##### Anti-Aliasing Enabled
-![alt text](https://i.imgur.com/zOeI7qCl.png "Ray Tracer AA")
+![alt text](https://i.imgur.com/zOeI7qCm.png "Ray Tracer AA")
+
+[Full size](https://i.imgur.com/zOeI7qC.png)
 
 ##### Anti-aliasing Disabled
-![alt text](https://i.imgur.com/Ou4wcWbl.png "Ray Tracer No AA")
+![alt text](https://i.imgur.com/Ou4wcWbm.png "Ray Tracer No AA")
+
+[Full size](https://i.imgur.com/Ou4wcWb.png)
